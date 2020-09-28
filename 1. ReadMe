@@ -1,0 +1,2 @@
+The sqlite database has a MATCH table that has team Ids and their match records. The team Ids of home and away teams act as foreign keys, referencing the team ids (Primary key) in TEAM table. The task is to do a inner join so that a new table can be created that has both of the team names as team names can be perceived better than team Ids./
+The 
