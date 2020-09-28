@@ -1,5 +1,5 @@
 # European-Soccer-Database
-The european soccer sqlite database from Kaggle has been used to query out the results. I have used to two tools i.e., SQLite and SQLAlchemy ORM to answer few questions that I thought will help me summarise the information better. \As the 
+The european soccer sqlite database from Kaggle has been used to query out the results. I have used to two tools i.e., SQLite and SQLAlchemy ORM to answer few questions that I thought will help me summarise the information better. /As the 
 
 
 
