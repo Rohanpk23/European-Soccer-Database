@@ -1,5 +1,5 @@
 # European-Soccer-Database
-The european soccer sqlite database from Kaggle has been used to query out the results. As I have an intermediate knowledge of SQL concepts; switching to an ORM like SQLAlchemy was very smooth. Prior to this, I have used MySQL workbench and SQlite DB browser to apply the core concepts. The best advantage that an ORM like SQLAlchemy provides is; 
+The european soccer sqlite database from Kaggle has been used to query out the results. As I have an intermediate knowledge of SQL concepts; switching to an ORM like SQLAlchemy was very smooth. Prior to this, I have used MySQL workbench and SQlite DB browser to apply the core concepts. The best advantage that an ORM like SQLAlchemy provides is:- 
 ** The syntax is Pythonic.
 ** Syntax and speed of execution is independent of the DBMS used in the background.
 ** Each of the SQL systems are stored and executed as objects.
