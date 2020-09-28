@@ -6,7 +6,8 @@ I have answered the following questions by pure SQL querying using the SQL DB br
 1. How to replace the team Ids with their names without using JOIN? I tried using the concept of correlated subquery to achieve this
 2. How do you summarise the perfomances of all the 299 teams? 
 3. Can you let me know which are the highest scoring matches in each season?
-4. Can you let me know which team scored the the highest goals in its home ground for each season? (Same question answered for the overseas teams with a small tweak to the query).
+4. Can you let me know which team scored the the highest goals in its home ground for each season? (Same question can be answered for the overseas teams with a small tweak to the query).
+5. Outlier goal scorers in from home as well as overseas teams i.e. having score greater than 3 times the overall average score.
 
 # Using SQLAlchemy to query the database
 As I have an intermediate knowledge of SQL concepts; switching to an ORM like SQLAlchemy was very smooth. The best advantage that an ORM like SQLAlchemy provides is:- 
